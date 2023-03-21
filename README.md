@@ -26,3 +26,5 @@ You can run python commands directly in the terminal
 2. when you see this ">>>" it means that all is ready to run python interpreter
 3. type: print("Hello World!")
 
+# Let's Learning Python
+1. The project is divided in directories that follows offcial documentation from python.org
