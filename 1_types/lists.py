@@ -1,6 +1,6 @@
 # lists also known as arrays
 # python lists can contain multiples types of elements
-# For to execute this strings.py, on the terminal type: py .\types\lists.py
+# to execute this strings.py, on the terminal type: py .\types\lists.py
 
 list = [1,2,3,4]
 print(list)

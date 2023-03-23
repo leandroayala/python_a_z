@@ -41,5 +41,5 @@ remainder = 5%2
 print(remainder + _)
 
 
-# For to execute this number.py, on the terminal type: py .\types\numbers.py
+#to execute this number.py, on the terminal type: py .\types\numbers.py
 

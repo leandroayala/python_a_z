@@ -1,5 +1,5 @@
 # stings in python can be enclosed in single quotes ('..') or double quotes ("..")
-# For to execute this strings.py, on the terminal type: py .\types\strings.py
+# to execute this strings.py, on the terminal type: py .\types\strings.py
 
 # single quotes
 single = 'Hello world'
@@ -62,3 +62,8 @@ print(name[0:5])
 #how you can know the length of a string
 string_lenght = len('Leandro Ayala')
 print(string_lenght)
+
+#You can do multiple assingnment
+a,b = 1,2
+print(a)
+print(b)
