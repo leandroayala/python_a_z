@@ -1,0 +1,2 @@
+the content of work.txt 1
+the content of work.txt 2
