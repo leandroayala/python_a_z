@@ -20,7 +20,7 @@ list2 = [3,4]
 list = list1 + list2
 print(list)
 
-#List are immutable
+#List are mutables. it is possible to change their content:
 #we can change someone item from a list
 list = [1,2,3]
 list[2] = 9
