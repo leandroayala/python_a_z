@@ -1,8 +1,10 @@
 # python_a_z
 
 # RESUME
-This project has the objective to show language python, using the official doc from python.org
-I will show the resources from basic to advanced
+This project has the objective to show language python, using the official doc from python.org (https://docs.python.org/3/tutorial/index.html)
+I showing in a pratice way all topics in oficial tutorial
+I made this project as a way to get to know the language its sintax and resouces, how to also my writing english
+fell free to contibute with new ideias and corrections
 
 # Python Installation
 
@@ -27,4 +29,4 @@ You can run python commands directly in the terminal
 3. type: print("Hello World!")
 
 # Let's Learning Python
-1. The project is divided in directories that follows offcial documentation from python.org
+1. The project is divided in directories that follows offcial documentation from python.org tutorial
