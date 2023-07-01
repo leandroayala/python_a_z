@@ -27,10 +27,21 @@ class Car:
     def __init__(self):
         self.color = "blue"
         self.name = "ford"
+    #here we definined a method to get te car color
+    def getColor(self):
+        return self.color
+    #end here the name color
+    def getName(self):
+        return self.name
+        
 
 #when a new instance of the classe is executed, the __init__() method is executed
 myCar = Car()
 print(myCar.color)
+
+#here is how we call a method of the class
+print("the car color is: ", myCar.getColor())
+print("the car color is: ", myCar.getName())
 
 #we may to given arguments to the __init__() method
 class People:
